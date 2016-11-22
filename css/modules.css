@@ -208,10 +208,6 @@ svg.img-flex {
   width: 100%;
 }
 
-.media {
-  overflow: hidden;
-}
-
 .media-img, .media__img {
   float: left;
 }
